@@ -76,3 +76,7 @@ Transportation is a tool that can move goods or people from one place to another
   * Primary key bid_id is auto-incremental.
   * bid_price must be greater than or equal to 0.
   * All fields must be complete (Not Null constraint on all fields except bid_id which is auto-incremental).
+
+# ERD
+![used_car_marketplace](https://github.com/andrewwcp/Used-Car-Marketplace-Database-Management-System/assets/64004958/cc6ddea7-f557-4015-8069-7a7dd61e9c63)
+
